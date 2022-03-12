@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyView</string>
+    <string name="_500_rb">Rp. 5.700.000.000</string>
+    <string name="kucing_persia">Lamborghini Huracan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tipe">Tipe :</string>
+    <string name="persia">Huracan Lp 620-2 Super Trofeo</string>
+    <string name="jenis_kelamin">Transmisi :</string>
+    <string name="jantan">Manual</string>
+    <string name="umur">Lama Pemakaian :</string>
+    <string name="_1_tahun">1 Tahun</string>
+    <string name="ciri_ciri">Spesifikasi :</string>
+    <string name="ciri_khas">- Warna Orange\n
+    - Tidak ada lecet\n
+    - Mesin bagus tidak ada kerusakan\n
+    - Bahan bakar bensin\n
+    - 620 horsepower\n
+    - Mesin 5204 cc\n
+    - 2 Seats (Tempat duduk)\n
+    - Velg Racing ukuran 20\n
+    </string>
+    <string name="pemilik">Pemilik</string>
+    <string name="adopt">Buy</string>
+    <string name="content_text">Mobil ingin dijual dikarenakan pemilik membutuhkan uang untuk membeli rumah.\n
+    Minat? Hubungi melalui WhatsApp.</string>
+</resources>
